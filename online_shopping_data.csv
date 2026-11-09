@@ -1,0 +1,501 @@
+"CustomerID","Age","Gender","ProductCategory","PurchaseAmount","PaymentMethod","ShoppingPlatform","PurchaseMonth","ItemsPurchased","CustomerRating","DeliveryTime"
+"CUST001",48,"Female","Clothing",9255.31,"GCash","Website","December",9,1,1
+"CUST002",32,"Female","Food",881.01,"Maya","Website","July",3,5,8
+"CUST003",31,"Male","Electronics",8520.85,"GCash","Mobile App","October",10,4,8
+"CUST004",20,"Male","Beauty",8851.39,"Maya","Mobile App","July",1,3,4
+"CUST005",59,"Male","Home Appliances",9465.65,"GCash","Website","October",2,3,9
+"CUST006",60,"Female","Home Appliances",9366.17,"Cash","Website","August",3,1,9
+"CUST007",54,"Female","Home Appliances",1325.82,"GCash","Website","December",6,5,4
+"CUST008",31,"Male","Sports",1256.87,"Cash","Website","May",3,5,1
+"CUST009",42,"Female","Clothing",10337.71,"Credit Card","Website","October",10,2,3
+"CUST010",43,"Male","Home Appliances",12471.52,"Cash","Mobile App","March",8,5,3
+"CUST011",44,"Female","Home Appliances",2274.06,"Credit Card","Mobile App","July",2,3,6
+"CUST012",22,"Male","Electronics",11774.6,"Maya","Website","August",3,2,6
+"CUST013",44,"Female","Home Appliances",7348.11,"Maya","Mobile App","September",5,2,5
+"CUST014",45,"Female","Electronics",14840.05,"Maya","Mobile App","August",9,4,7
+"CUST015",26,"Female","Clothing",7536.66,"Credit Card","Mobile App","February",10,4,10
+"CUST016",46,"Female","Electronics",8477.68,"Cash","Mobile App","October",10,3,9
+"CUST017",52,"Female","Electronics",5736.03,"GCash","Website","September",1,2,7
+"CUST018",25,"Female","Clothing",7827.69,"GCash","Website","October",9,4,6
+"CUST019",43,"Female","Food",1206.83,"Cash","Website","July",3,1,10
+"CUST020",24,"Female","Sports",8123.24,"Credit Card","Mobile App","July",4,5,10
+"CUST021",59,"Male","Home Appliances",14419.81,"GCash","Mobile App","November",1,2,10
+"CUST022",26,"Male","Clothing",7964.37,"GCash","Website","April",1,2,3
+"CUST023",36,"Female","Clothing",6613.68,"GCash","Mobile App","February",6,4,3
+"CUST024",53,"Male","Clothing",580.78,"Maya","Website","October",10,1,7
+"CUST025",31,"Male","Sports",662.24,"GCash","Website","January",7,3,8
+"CUST026",34,"Female","Sports",805.49,"Maya","Website","July",7,5,4
+"CUST027",60,"Male","Food",2498.29,"Cash","Mobile App","January",10,4,7
+"CUST028",56,"Male","Home Appliances",7089.55,"GCash","Mobile App","November",2,5,5
+"CUST029",29,"Female","Clothing",12108.27,"Credit Card","Mobile App","April",5,2,1
+"CUST030",32,"Female","Beauty",4280.9,"Credit Card","Mobile App","April",4,4,1
+"CUST031",49,"Male","Sports",11346.28,"Cash","Mobile App","June",9,1,4
+"CUST032",59,"Male","Electronics",7875.2,"GCash","Website","April",7,3,1
+"CUST033",24,"Male","Sports",4405.31,"Cash","Website","September",7,2,2
+"CUST034",26,"Male","Food",358.92,"Cash","Mobile App","December",7,3,4
+"CUST035",58,"Male","Beauty",10058.41,"Maya","Website","January",7,1,9
+"CUST036",27,"Male","Sports",1097.94,"GCash","Mobile App","September",5,2,2
+"CUST037",40,"Female","Beauty",12562.16,"Cash","Mobile App","August",9,3,10
+"CUST038",44,"Female","Beauty",2116.61,"Cash","Website","November",8,2,3
+"CUST039",24,"Female","Sports",9872.58,"Credit Card","Mobile App","October",9,3,5
+"CUST040",44,"Female","Clothing",12585.42,"GCash","Website","January",3,1,6
+"CUST041",49,"Male","Food",3938.96,"Maya","Website","January",6,2,10
+"CUST042",55,"Female","Food",2126.33,"Maya","Mobile App","October",3,4,1
+"CUST043",42,"Male","Clothing",11475.98,"Credit Card","Website","July",2,2,6
+"CUST044",51,"Female","Beauty",3258.74,"Maya","Mobile App","May",2,2,9
+"CUST045",46,"Male","Electronics",4092.75,"Credit Card","Website","January",6,1,5
+"CUST046",22,"Male","Food",8024.28,"Cash","Mobile App","August",5,5,1
+"CUST047",25,"Male","Electronics",7164.34,"Credit Card","Website","May",10,1,6
+"CUST048",29,"Female","Electronics",5664.31,"Cash","Mobile App","May",6,3,8
+"CUST049",30,"Female","Food",11652.71,"Credit Card","Website","May",1,4,2
+"CUST050",35,"Female","Beauty",8417.24,"Cash","Mobile App","November",8,1,9
+"CUST051",50,"Male","Home Appliances",2413.03,"Credit Card","Website","January",7,2,4
+"CUST052",44,"Male","Clothing",14842.33,"GCash","Mobile App","October",9,1,4
+"CUST053",42,"Female","Home Appliances",3742.25,"Credit Card","Website","July",7,5,9
+"CUST054",55,"Female","Sports",2042.64,"Maya","Website","November",4,2,10
+"CUST055",38,"Male","Sports",3268.95,"Maya","Website","July",2,5,5
+"CUST056",32,"Male","Clothing",5762.06,"GCash","Mobile App","April",10,4,10
+"CUST057",58,"Male","Food",5458.36,"GCash","Website","June",1,3,4
+"CUST058",43,"Male","Clothing",4609.66,"GCash","Mobile App","December",1,4,4
+"CUST059",48,"Male","Clothing",761.56,"Maya","Website","February",6,4,2
+"CUST060",33,"Male","Food",14028.27,"Cash","Mobile App","January",2,4,3
+"CUST061",47,"Male","Food",8573.88,"Cash","Mobile App","February",10,5,4
+"CUST062",23,"Male","Electronics",3389.96,"Cash","Mobile App","January",10,5,5
+"CUST063",60,"Male","Beauty",13181.62,"Credit Card","Website","September",2,2,8
+"CUST064",25,"Male","Electronics",7062.6,"Cash","Website","March",1,3,3
+"CUST065",39,"Female","Beauty",8181.01,"GCash","Website","April",2,1,1
+"CUST066",39,"Male","Beauty",11787.53,"GCash","Mobile App","June",8,4,2
+"CUST067",56,"Female","Sports",9753.27,"Cash","Website","June",8,1,3
+"CUST068",48,"Male","Beauty",2258.91,"GCash","Mobile App","September",6,2,7
+"CUST069",34,"Female","Sports",4892.4,"Credit Card","Website","September",2,2,3
+"CUST070",51,"Female","Home Appliances",14270.73,"GCash","Website","November",5,1,3
+"CUST071",21,"Male","Clothing",2904.16,"Credit Card","Mobile App","March",10,2,7
+"CUST072",30,"Female","Sports",11281.02,"GCash","Website","September",8,4,10
+"CUST073",22,"Female","Electronics",6941.46,"Credit Card","Website","October",2,2,4
+"CUST074",42,"Male","Home Appliances",2206.34,"Credit Card","Website","December",7,1,8
+"CUST075",39,"Male","Beauty",3157.38,"Credit Card","Mobile App","August",5,3,1
+"CUST076",42,"Female","Beauty",10161.87,"Cash","Website","June",4,3,2
+"CUST077",49,"Female","Sports",2156.65,"Cash","Mobile App","December",9,4,4
+"CUST078",42,"Male","Beauty",6291.6,"Credit Card","Mobile App","July",10,1,10
+"CUST079",40,"Female","Beauty",6823.58,"Credit Card","Mobile App","April",2,3,2
+"CUST080",52,"Male","Sports",9381.9,"Credit Card","Mobile App","August",4,1,3
+"CUST081",57,"Female","Electronics",3842.5,"Maya","Website","October",1,3,6
+"CUST082",47,"Female","Beauty",7015.89,"Cash","Website","May",10,2,6
+"CUST083",29,"Female","Beauty",2566.09,"Maya","Website","February",3,2,2
+"CUST084",48,"Male","Sports",12881.32,"Credit Card","Mobile App","June",10,4,9
+"CUST085",47,"Male","Clothing",2432.62,"Credit Card","Website","September",10,5,5
+"CUST086",52,"Female","Home Appliances",1416.14,"Credit Card","Mobile App","June",1,4,2
+"CUST087",31,"Female","Home Appliances",13411.92,"Credit Card","Mobile App","March",5,2,5
+"CUST088",46,"Female","Clothing",4579.25,"Maya","Website","August",4,5,2
+"CUST089",49,"Male","Home Appliances",11306.09,"Maya","Website","March",6,4,3
+"CUST090",24,"Male","Clothing",6083.94,"Maya","Mobile App","February",4,1,5
+"CUST091",20,"Female","Beauty",6783.52,"Cash","Mobile App","June",9,2,4
+"CUST092",40,"Male","Electronics",2479.14,"Maya","Mobile App","August",4,1,1
+"CUST093",32,"Female","Beauty",2253.29,"Credit Card","Website","July",7,3,6
+"CUST094",38,"Female","Sports",2322.79,"Credit Card","Mobile App","December",5,2,3
+"CUST095",54,"Female","Sports",7765.07,"Cash","Mobile App","April",5,5,1
+"CUST096",25,"Female","Beauty",7443.13,"Credit Card","Website","December",8,5,1
+"CUST097",27,"Male","Home Appliances",9283.51,"Maya","Mobile App","January",3,2,6
+"CUST098",59,"Female","Home Appliances",6766.6,"GCash","Website","October",2,1,3
+"CUST099",51,"Female","Clothing",929.58,"GCash","Website","August",7,4,10
+"CUST100",27,"Male","Food",180.41,"Cash","Website","December",4,5,9
+"CUST101",39,"Male","Beauty",3405.33,"GCash","Mobile App","October",2,2,2
+"CUST102",29,"Female","Home Appliances",12779.35,"Maya","Mobile App","October",3,4,7
+"CUST103",37,"Female","Electronics",4083.46,"Maya","Website","November",3,2,2
+"CUST104",34,"Male","Electronics",9019.14,"Maya","Website","February",5,5,10
+"CUST105",52,"Male","Home Appliances",9168.14,"GCash","Website","April",5,5,10
+"CUST106",57,"Male","Beauty",14883.16,"Cash","Mobile App","December",4,4,8
+"CUST107",47,"Male","Clothing",2948.73,"Credit Card","Mobile App","June",2,3,2
+"CUST108",32,"Male","Sports",11325.52,"Cash","Mobile App","February",2,3,5
+"CUST109",41,"Male","Home Appliances",3711.57,"Maya","Mobile App","January",6,3,5
+"CUST110",40,"Male","Sports",4979.04,"Maya","Website","May",3,5,9
+"CUST111",60,"Male","Food",152.68,"Maya","Mobile App","March",6,5,3
+"CUST112",24,"Male","Electronics",14961.62,"Credit Card","Mobile App","June",7,3,10
+"CUST113",46,"Male","Home Appliances",6627.09,"Cash","Website","March",10,2,5
+"CUST114",32,"Female","Home Appliances",14965.56,"GCash","Website","October",2,3,1
+"CUST115",40,"Male","Electronics",3031.12,"Maya","Mobile App","November",10,4,5
+"CUST116",43,"Male","Electronics",1761,"Cash","Website","September",2,5,10
+"CUST117",55,"Male","Home Appliances",3835.97,"GCash","Website","April",7,1,5
+"CUST118",49,"Female","Sports",10239.1,"Credit Card","Website","October",2,4,5
+"CUST119",24,"Female","Sports",8701.09,"Cash","Website","March",1,4,8
+"CUST120",44,"Female","Sports",6303.57,"Cash","Website","April",8,1,2
+"CUST121",59,"Female","Food",10964.8,"Maya","Website","June",6,4,10
+"CUST122",22,"Female","Sports",8655.43,"Cash","Website","June",2,5,6
+"CUST123",23,"Female","Sports",8706.76,"Credit Card","Website","July",9,1,8
+"CUST124",33,"Female","Sports",8890.99,"Cash","Mobile App","February",4,1,7
+"CUST125",41,"Female","Home Appliances",3421.63,"Maya","Mobile App","August",6,3,9
+"CUST126",49,"Male","Sports",1642.04,"Credit Card","Website","April",6,2,5
+"CUST127",38,"Male","Food",11073.94,"GCash","Website","January",9,1,8
+"CUST128",28,"Female","Home Appliances",9224.82,"GCash","Website","August",7,1,10
+"CUST129",53,"Female","Home Appliances",14273.06,"Credit Card","Mobile App","June",9,1,1
+"CUST130",36,"Male","Sports",14402.15,"Cash","Mobile App","February",8,2,2
+"CUST131",42,"Female","Electronics",11198.06,"GCash","Mobile App","December",7,1,10
+"CUST132",56,"Male","Clothing",6578.97,"Cash","Website","October",4,2,1
+"CUST133",43,"Male","Sports",2704.15,"Cash","Website","October",9,5,3
+"CUST134",26,"Male","Home Appliances",6585.79,"Maya","Website","September",6,4,3
+"CUST135",24,"Male","Electronics",11460.63,"Cash","Mobile App","September",9,2,3
+"CUST136",51,"Male","Home Appliances",13793.54,"Credit Card","Website","November",2,2,10
+"CUST137",30,"Male","Food",13609.79,"GCash","Website","December",9,4,6
+"CUST138",36,"Female","Sports",12251.14,"GCash","Mobile App","March",9,4,2
+"CUST139",56,"Female","Beauty",3076.32,"GCash","Mobile App","February",2,5,10
+"CUST140",21,"Male","Food",839.42,"Cash","Website","June",9,5,8
+"CUST141",18,"Male","Beauty",7236.33,"GCash","Mobile App","December",8,3,9
+"CUST142",57,"Female","Electronics",8896.86,"Maya","Website","November",10,5,2
+"CUST143",47,"Female","Electronics",1539.64,"GCash","Mobile App","September",9,1,3
+"CUST144",47,"Male","Electronics",14268.26,"Maya","Website","March",10,4,7
+"CUST145",42,"Male","Home Appliances",2524.87,"Credit Card","Website","August",2,3,8
+"CUST146",33,"Male","Sports",13830.44,"GCash","Website","December",2,5,5
+"CUST147",41,"Female","Sports",2003.85,"Credit Card","Website","January",10,4,5
+"CUST148",28,"Male","Sports",9974.82,"Credit Card","Mobile App","November",5,3,9
+"CUST149",37,"Male","Electronics",11782.22,"Maya","Mobile App","February",10,1,8
+"CUST150",57,"Female","Food",11492.74,"Maya","Website","February",2,1,4
+"CUST151",20,"Female","Home Appliances",10121.3,"Maya","Website","July",4,3,6
+"CUST152",46,"Female","Clothing",1823.42,"Credit Card","Mobile App","December",6,4,7
+"CUST153",53,"Male","Electronics",12784.39,"Cash","Website","May",4,5,8
+"CUST154",39,"Male","Food",9307.63,"Cash","Website","June",4,5,10
+"CUST155",59,"Female","Home Appliances",12562.53,"Maya","Website","May",10,5,3
+"CUST156",37,"Female","Sports",2631.93,"Credit Card","Website","May",4,4,6
+"CUST157",28,"Female","Beauty",253.19,"Maya","Website","December",8,5,9
+"CUST158",25,"Male","Electronics",4919.7,"Maya","Mobile App","April",5,4,3
+"CUST159",38,"Male","Sports",4118.27,"Credit Card","Mobile App","April",2,3,2
+"CUST160",19,"Female","Food",12396.39,"Cash","Website","August",2,5,6
+"CUST161",60,"Female","Food",14011.56,"GCash","Mobile App","September",4,2,1
+"CUST162",30,"Male","Electronics",2004.09,"Cash","Mobile App","January",1,2,2
+"CUST163",23,"Male","Sports",13708.73,"Credit Card","Website","October",1,4,1
+"CUST164",25,"Male","Sports",9117.99,"GCash","Mobile App","April",8,2,3
+"CUST165",49,"Female","Electronics",6064.25,"Maya","Website","October",2,2,7
+"CUST166",53,"Female","Beauty",10020.35,"Cash","Website","December",9,1,2
+"CUST167",31,"Male","Food",11537.23,"Maya","Mobile App","August",6,5,2
+"CUST168",33,"Male","Home Appliances",7876.25,"Maya","Mobile App","November",8,4,2
+"CUST169",40,"Female","Sports",5978.16,"GCash","Website","February",8,2,8
+"CUST170",50,"Male","Electronics",14490.22,"Maya","Mobile App","August",9,5,9
+"CUST171",57,"Male","Electronics",829.88,"Credit Card","Mobile App","July",10,2,9
+"CUST172",57,"Female","Home Appliances",2384.29,"Credit Card","Website","February",2,1,5
+"CUST173",27,"Male","Beauty",10482.9,"Cash","Website","May",10,3,6
+"CUST174",42,"Female","Food",10944.01,"Credit Card","Website","September",3,2,4
+"CUST175",25,"Male","Beauty",1714.85,"Maya","Mobile App","October",8,2,3
+"CUST176",35,"Male","Sports",7022.07,"Cash","Website","October",7,4,10
+"CUST177",26,"Female","Clothing",9667.67,"Cash","Mobile App","November",3,2,3
+"CUST178",24,"Female","Clothing",6016.95,"Credit Card","Website","January",2,5,8
+"CUST179",24,"Male","Food",14857.41,"Maya","Mobile App","June",3,2,3
+"CUST180",27,"Female","Beauty",10212.76,"GCash","Website","August",2,2,7
+"CUST181",41,"Female","Clothing",4798.25,"GCash","Website","August",9,4,9
+"CUST182",40,"Female","Food",2391.16,"Maya","Website","February",2,1,3
+"CUST183",43,"Female","Food",4588.65,"Cash","Mobile App","July",1,2,4
+"CUST184",60,"Female","Home Appliances",1508.28,"Maya","Website","August",3,5,3
+"CUST185",50,"Female","Home Appliances",500.45,"GCash","Mobile App","August",4,2,7
+"CUST186",46,"Female","Electronics",4726.2,"Cash","Mobile App","October",10,2,7
+"CUST187",27,"Male","Home Appliances",11162.34,"GCash","Website","August",3,3,7
+"CUST188",30,"Male","Beauty",14405.37,"GCash","Website","December",6,2,7
+"CUST189",60,"Female","Sports",6295.46,"Cash","Website","November",5,2,6
+"CUST190",28,"Male","Clothing",7881.31,"GCash","Mobile App","May",4,2,8
+"CUST191",42,"Female","Electronics",1106.04,"Credit Card","Mobile App","April",8,1,5
+"CUST192",43,"Female","Electronics",9484.64,"Maya","Website","October",4,1,4
+"CUST193",24,"Male","Beauty",5365.87,"Credit Card","Mobile App","September",7,1,4
+"CUST194",42,"Male","Clothing",6428.25,"Cash","Website","August",1,1,9
+"CUST195",40,"Female","Clothing",14460.15,"Credit Card","Website","June",2,2,2
+"CUST196",43,"Male","Sports",10246.88,"Cash","Website","November",8,2,2
+"CUST197",49,"Female","Beauty",10805.11,"Cash","Mobile App","August",3,5,7
+"CUST198",37,"Female","Home Appliances",2642.38,"Cash","Website","April",5,5,3
+"CUST199",41,"Male","Home Appliances",3133.78,"Cash","Mobile App","October",4,2,1
+"CUST200",26,"Male","Home Appliances",13160.59,"Maya","Website","March",9,2,9
+"CUST201",58,"Male","Sports",12579.09,"GCash","Website","May",3,3,4
+"CUST202",54,"Female","Food",10837.34,"Cash","Website","January",1,1,9
+"CUST203",40,"Male","Electronics",4287.84,"Maya","Website","December",4,2,1
+"CUST204",31,"Female","Sports",3228.86,"GCash","Mobile App","February",9,2,2
+"CUST205",23,"Female","Sports",7462.84,"GCash","Mobile App","June",1,3,1
+"CUST206",44,"Female","Clothing",7874.12,"Cash","Mobile App","March",6,1,9
+"CUST207",18,"Male","Food",3375.49,"Maya","Website","February",5,2,3
+"CUST208",43,"Male","Home Appliances",11470.29,"Maya","Website","August",2,1,3
+"CUST209",59,"Male","Clothing",465.34,"Credit Card","Website","October",7,5,7
+"CUST210",34,"Male","Food",10701.14,"Maya","Website","January",9,4,8
+"CUST211",46,"Male","Electronics",12629.23,"Maya","Website","October",7,2,4
+"CUST212",43,"Male","Home Appliances",13969.23,"Maya","Website","June",4,4,2
+"CUST213",44,"Male","Sports",9965.17,"GCash","Mobile App","August",4,5,6
+"CUST214",38,"Female","Food",4122.14,"Credit Card","Website","November",10,3,1
+"CUST215",24,"Female","Home Appliances",3351.68,"Credit Card","Website","May",10,1,6
+"CUST216",43,"Female","Clothing",13030.49,"Cash","Website","September",1,4,3
+"CUST217",58,"Male","Sports",466.12,"Cash","Mobile App","September",9,3,3
+"CUST218",37,"Male","Home Appliances",12765.4,"Cash","Website","February",4,2,9
+"CUST219",23,"Male","Sports",7906.6,"Maya","Mobile App","August",8,4,5
+"CUST220",47,"Male","Food",6588.39,"Cash","Website","June",6,1,4
+"CUST221",48,"Female","Electronics",13976.29,"Maya","Website","June",1,4,3
+"CUST222",46,"Male","Clothing",2551.8,"GCash","Website","May",7,3,5
+"CUST223",34,"Female","Sports",5743.95,"GCash","Website","December",1,1,3
+"CUST224",54,"Female","Clothing",2156.87,"Credit Card","Website","February",3,2,7
+"CUST225",37,"Male","Clothing",2330.84,"Cash","Mobile App","August",6,5,3
+"CUST226",52,"Male","Sports",10179.06,"Cash","Website","April",8,3,3
+"CUST227",42,"Female","Home Appliances",8475.53,"Credit Card","Website","April",2,2,1
+"CUST228",50,"Male","Home Appliances",7127.56,"Credit Card","Website","April",8,4,4
+"CUST229",19,"Female","Beauty",12185.39,"Cash","Mobile App","September",2,3,6
+"CUST230",21,"Male","Clothing",14439.59,"Maya","Website","November",4,4,5
+"CUST231",27,"Female","Sports",7779.61,"GCash","Mobile App","August",1,3,10
+"CUST232",50,"Female","Sports",10585.47,"GCash","Website","October",6,1,7
+"CUST233",22,"Female","Clothing",2795.1,"GCash","Website","April",4,4,2
+"CUST234",42,"Male","Beauty",5389.01,"GCash","Website","January",8,2,8
+"CUST235",25,"Female","Sports",843.55,"GCash","Mobile App","November",7,4,10
+"CUST236",42,"Male","Beauty",2373.05,"Credit Card","Mobile App","February",10,1,1
+"CUST237",38,"Male","Beauty",1579.15,"Credit Card","Mobile App","August",10,4,10
+"CUST238",35,"Female","Food",4274.21,"Maya","Mobile App","June",2,4,5
+"CUST239",59,"Female","Electronics",5873.01,"GCash","Website","July",5,3,9
+"CUST240",48,"Female","Home Appliances",9548.97,"Maya","Mobile App","February",2,1,2
+"CUST241",23,"Male","Sports",10635.25,"Maya","Mobile App","October",4,2,9
+"CUST242",24,"Female","Clothing",4957.67,"Cash","Mobile App","April",8,2,8
+"CUST243",58,"Male","Electronics",14481.23,"GCash","Website","May",1,5,10
+"CUST244",34,"Female","Electronics",10477.17,"Cash","Website","March",6,4,10
+"CUST245",45,"Male","Electronics",2500.07,"Cash","Mobile App","April",8,3,4
+"CUST246",57,"Male","Sports",5599.03,"GCash","Website","March",3,1,6
+"CUST247",24,"Female","Home Appliances",4603.04,"Maya","Website","November",6,1,7
+"CUST248",37,"Female","Electronics",6923.69,"Credit Card","Mobile App","February",6,5,8
+"CUST249",35,"Female","Sports",12366.91,"Cash","Mobile App","April",2,1,9
+"CUST250",46,"Female","Clothing",3564.84,"Maya","Website","February",6,4,9
+"CUST251",34,"Male","Food",6094.6,"GCash","Website","December",7,2,7
+"CUST252",50,"Female","Clothing",14577.03,"Cash","Mobile App","January",5,3,2
+"CUST253",19,"Female","Home Appliances",1953.87,"Maya","Mobile App","November",1,4,6
+"CUST254",19,"Male","Clothing",9491.32,"GCash","Mobile App","October",6,4,1
+"CUST255",30,"Female","Clothing",10587.62,"Cash","Mobile App","November",4,1,5
+"CUST256",41,"Male","Home Appliances",8908.88,"GCash","Website","April",2,2,8
+"CUST257",20,"Male","Food",14948.09,"Maya","Mobile App","April",4,4,8
+"CUST258",35,"Female","Beauty",775.51,"Maya","Website","October",4,2,4
+"CUST259",19,"Female","Sports",14852.08,"Credit Card","Website","June",1,5,1
+"CUST260",54,"Male","Home Appliances",11205.06,"Credit Card","Website","May",10,3,9
+"CUST261",29,"Male","Sports",6607.57,"Credit Card","Website","February",6,3,1
+"CUST262",30,"Female","Beauty",2379.8,"Credit Card","Website","April",9,2,2
+"CUST263",59,"Female","Food",6788.09,"GCash","Website","June",1,4,2
+"CUST264",23,"Male","Electronics",2876.24,"Credit Card","Website","November",2,2,4
+"CUST265",59,"Female","Sports",6455.57,"Credit Card","Mobile App","February",7,2,10
+"CUST266",59,"Male","Food",12329.62,"Cash","Website","May",6,1,1
+"CUST267",55,"Male","Sports",850.65,"GCash","Website","March",7,5,5
+"CUST268",33,"Male","Clothing",4948.19,"Cash","Website","September",2,3,8
+"CUST269",52,"Female","Electronics",12651.94,"Maya","Website","May",5,5,8
+"CUST270",53,"Female","Sports",698.98,"Cash","Website","April",6,4,2
+"CUST271",44,"Male","Home Appliances",11898.91,"Cash","Website","March",10,3,7
+"CUST272",44,"Male","Beauty",14428.26,"Cash","Mobile App","November",8,1,7
+"CUST273",52,"Female","Food",9947.72,"GCash","Mobile App","May",7,2,1
+"CUST274",40,"Male","Food",229.89,"Credit Card","Website","February",6,3,1
+"CUST275",20,"Female","Electronics",7040.26,"GCash","Mobile App","August",4,4,4
+"CUST276",48,"Female","Food",10777.55,"Credit Card","Mobile App","September",1,2,1
+"CUST277",19,"Female","Food",519.91,"GCash","Mobile App","August",2,2,5
+"CUST278",40,"Male","Beauty",12697.69,"Credit Card","Website","August",1,3,2
+"CUST279",20,"Male","Electronics",11221.59,"GCash","Mobile App","November",5,2,3
+"CUST280",26,"Male","Home Appliances",4034.06,"Maya","Website","March",8,3,4
+"CUST281",56,"Female","Food",11214.11,"Maya","Website","November",9,2,1
+"CUST282",47,"Female","Sports",10106.58,"GCash","Website","February",1,5,1
+"CUST283",48,"Female","Beauty",2663.59,"Credit Card","Website","April",1,3,4
+"CUST284",47,"Male","Food",10078.78,"GCash","Mobile App","June",10,4,6
+"CUST285",26,"Female","Food",13962.28,"Credit Card","Website","January",10,2,4
+"CUST286",53,"Female","Food",12779.52,"Maya","Mobile App","June",2,5,6
+"CUST287",51,"Male","Beauty",11737.99,"GCash","Website","October",9,5,9
+"CUST288",39,"Male","Beauty",10319.05,"Cash","Mobile App","December",4,3,4
+"CUST289",58,"Male","Beauty",8911.4,"Maya","Mobile App","April",9,5,4
+"CUST290",45,"Male","Food",6108.77,"GCash","Website","February",1,5,6
+"CUST291",46,"Male","Sports",2012.39,"GCash","Mobile App","November",4,2,10
+"CUST292",60,"Male","Beauty",12320.45,"Maya","Mobile App","April",9,5,2
+"CUST293",56,"Male","Beauty",10779.14,"GCash","Mobile App","November",2,5,8
+"CUST294",54,"Female","Clothing",11846.04,"Cash","Mobile App","June",1,1,1
+"CUST295",60,"Female","Food",372.91,"Cash","Mobile App","June",9,1,10
+"CUST296",50,"Female","Sports",2699.9,"Credit Card","Mobile App","April",7,3,8
+"CUST297",36,"Female","Food",9019.87,"Credit Card","Website","December",6,2,5
+"CUST298",29,"Female","Clothing",1301.52,"GCash","Mobile App","May",3,1,4
+"CUST299",51,"Male","Sports",10639.01,"Cash","Mobile App","November",7,1,8
+"CUST300",38,"Male","Food",8498.66,"Credit Card","Mobile App","May",8,4,10
+"CUST301",34,"Female","Home Appliances",4313.84,"Credit Card","Mobile App","October",4,4,2
+"CUST302",29,"Female","Food",5941.65,"GCash","Mobile App","October",1,4,6
+"CUST303",47,"Female","Electronics",10123.65,"Cash","Website","April",1,1,2
+"CUST304",52,"Male","Home Appliances",2516.48,"Cash","Mobile App","July",9,2,10
+"CUST305",47,"Female","Beauty",1716.68,"Maya","Website","July",4,2,1
+"CUST306",42,"Male","Beauty",8048.32,"Maya","Website","August",5,2,8
+"CUST307",20,"Female","Electronics",1637.67,"Maya","Mobile App","July",3,5,4
+"CUST308",35,"Female","Electronics",1491.93,"Credit Card","Mobile App","July",9,5,3
+"CUST309",49,"Female","Beauty",9634.88,"Credit Card","Website","August",8,3,7
+"CUST310",34,"Female","Food",8504.23,"Cash","Website","March",1,2,2
+"CUST311",55,"Female","Food",4652.49,"Cash","Mobile App","June",6,4,1
+"CUST312",59,"Male","Beauty",4063.53,"Cash","Mobile App","September",5,4,8
+"CUST313",57,"Male","Home Appliances",9524.26,"GCash","Mobile App","February",9,4,1
+"CUST314",59,"Male","Electronics",12478.29,"Cash","Mobile App","November",10,3,5
+"CUST315",49,"Female","Home Appliances",865.2,"Maya","Website","August",9,1,7
+"CUST316",43,"Female","Electronics",14885.79,"GCash","Website","February",5,5,2
+"CUST317",30,"Female","Electronics",429.1,"Credit Card","Mobile App","January",1,4,6
+"CUST318",37,"Male","Food",2779.6,"Cash","Website","August",4,3,8
+"CUST319",55,"Male","Sports",4997.51,"Credit Card","Mobile App","November",4,2,10
+"CUST320",37,"Male","Beauty",12837.95,"Credit Card","Website","October",2,1,3
+"CUST321",46,"Female","Food",2846.97,"GCash","Website","October",10,3,5
+"CUST322",37,"Male","Beauty",11950.81,"Credit Card","Mobile App","April",5,5,9
+"CUST323",47,"Female","Electronics",12896.9,"Cash","Website","September",3,4,8
+"CUST324",58,"Male","Clothing",7133.09,"Cash","Mobile App","May",5,1,5
+"CUST325",25,"Male","Sports",9758.22,"GCash","Website","March",6,5,6
+"CUST326",56,"Female","Beauty",4943.12,"GCash","Website","September",1,1,7
+"CUST327",27,"Female","Beauty",7045.45,"Credit Card","Website","April",10,5,1
+"CUST328",34,"Male","Sports",14141.87,"GCash","Website","January",7,5,1
+"CUST329",35,"Male","Electronics",3757.42,"Credit Card","Mobile App","September",2,3,10
+"CUST330",57,"Female","Electronics",434.61,"GCash","Mobile App","June",9,4,9
+"CUST331",59,"Female","Electronics",14509.37,"Cash","Mobile App","October",4,4,8
+"CUST332",28,"Male","Electronics",3974.73,"Credit Card","Website","June",2,5,10
+"CUST333",19,"Male","Clothing",9846.2,"Maya","Website","November",10,1,3
+"CUST334",36,"Male","Clothing",1223.18,"GCash","Mobile App","November",7,4,2
+"CUST335",30,"Female","Sports",14541.77,"Maya","Website","April",3,5,3
+"CUST336",30,"Male","Electronics",13786.24,"GCash","Mobile App","November",8,1,7
+"CUST337",48,"Male","Clothing",13035.47,"Cash","Website","December",3,2,6
+"CUST338",47,"Male","Food",6423.25,"GCash","Website","September",5,5,2
+"CUST339",39,"Male","Electronics",11737.38,"Credit Card","Mobile App","November",3,3,7
+"CUST340",47,"Female","Beauty",4568.6,"GCash","Website","May",6,5,1
+"CUST341",27,"Male","Beauty",4412.85,"Credit Card","Mobile App","November",7,5,10
+"CUST342",33,"Female","Home Appliances",14989.18,"Maya","Mobile App","February",5,4,8
+"CUST343",22,"Male","Sports",14806.85,"Credit Card","Mobile App","February",8,5,6
+"CUST344",53,"Female","Sports",7252.69,"Credit Card","Mobile App","February",8,2,10
+"CUST345",50,"Male","Clothing",11457.9,"Maya","Mobile App","August",3,3,6
+"CUST346",33,"Female","Food",4996.32,"Credit Card","Mobile App","May",10,1,2
+"CUST347",45,"Female","Food",3619.96,"GCash","Website","September",1,5,10
+"CUST348",29,"Male","Clothing",9306.11,"Cash","Website","March",4,1,3
+"CUST349",45,"Female","Electronics",5172.69,"Credit Card","Mobile App","June",4,1,2
+"CUST350",19,"Female","Clothing",970.03,"Cash","Mobile App","May",4,3,3
+"CUST351",29,"Male","Home Appliances",14730.99,"Cash","Mobile App","February",9,5,7
+"CUST352",23,"Male","Clothing",10351.8,"GCash","Mobile App","November",5,1,6
+"CUST353",33,"Male","Home Appliances",12946.52,"Cash","Mobile App","September",7,3,5
+"CUST354",32,"Male","Sports",6979.26,"Credit Card","Mobile App","April",5,4,1
+"CUST355",36,"Female","Electronics",1977.81,"GCash","Website","May",1,2,9
+"CUST356",20,"Female","Beauty",10236.4,"Maya","Website","December",4,3,4
+"CUST357",50,"Male","Sports",397.24,"GCash","Mobile App","January",2,5,5
+"CUST358",50,"Male","Food",2528.08,"Maya","Website","January",1,4,2
+"CUST359",28,"Male","Electronics",13447.66,"GCash","Website","February",10,4,2
+"CUST360",53,"Male","Electronics",2382.05,"Credit Card","Mobile App","October",2,2,2
+"CUST361",27,"Female","Food",3953.76,"Cash","Website","December",4,5,1
+"CUST362",59,"Male","Home Appliances",3735.97,"Maya","Mobile App","November",4,1,7
+"CUST363",41,"Female","Clothing",4746.79,"Maya","Website","October",10,5,9
+"CUST364",45,"Female","Electronics",3396.58,"Credit Card","Mobile App","December",2,3,7
+"CUST365",56,"Female","Electronics",555.15,"Maya","Website","December",8,5,1
+"CUST366",35,"Male","Clothing",13555.25,"Cash","Mobile App","November",6,1,7
+"CUST367",34,"Female","Food",14395.02,"Cash","Website","October",3,1,9
+"CUST368",37,"Female","Beauty",14148.45,"Credit Card","Mobile App","December",4,3,3
+"CUST369",26,"Female","Beauty",6854.17,"Credit Card","Mobile App","November",2,3,1
+"CUST370",28,"Female","Sports",6621.21,"Maya","Website","July",1,2,1
+"CUST371",25,"Male","Electronics",847.48,"Cash","Website","May",2,2,2
+"CUST372",22,"Female","Clothing",5461.34,"Maya","Mobile App","November",8,2,2
+"CUST373",46,"Male","Home Appliances",13460,"Cash","Mobile App","July",5,4,3
+"CUST374",23,"Male","Beauty",5628.84,"GCash","Website","May",7,3,6
+"CUST375",27,"Female","Clothing",7598.95,"Cash","Mobile App","April",2,4,5
+"CUST376",43,"Female","Beauty",7961.23,"GCash","Mobile App","February",5,1,7
+"CUST377",26,"Male","Beauty",2637.02,"GCash","Website","May",9,4,7
+"CUST378",28,"Male","Clothing",8125.12,"Maya","Website","March",7,4,5
+"CUST379",23,"Male","Beauty",1746.35,"GCash","Website","March",9,2,2
+"CUST380",49,"Male","Food",9250.17,"GCash","Mobile App","June",8,3,5
+"CUST381",29,"Male","Beauty",8220.15,"Maya","Mobile App","January",9,3,8
+"CUST382",36,"Male","Beauty",3491.67,"Credit Card","Website","November",10,4,5
+"CUST383",44,"Male","Clothing",13532.48,"GCash","Mobile App","March",1,3,9
+"CUST384",49,"Female","Home Appliances",3058.04,"Cash","Mobile App","May",10,2,10
+"CUST385",44,"Female","Home Appliances",6385,"Credit Card","Website","February",7,2,4
+"CUST386",47,"Male","Food",13276.99,"Maya","Website","August",1,3,9
+"CUST387",21,"Male","Food",3649.19,"Maya","Mobile App","October",5,5,10
+"CUST388",41,"Female","Sports",4445.3,"Cash","Website","May",3,1,9
+"CUST389",45,"Male","Sports",13158.29,"Maya","Mobile App","March",2,5,2
+"CUST390",20,"Male","Beauty",9324.18,"GCash","Website","August",7,1,6
+"CUST391",57,"Male","Electronics",12873.75,"Cash","Mobile App","May",3,3,3
+"CUST392",23,"Female","Home Appliances",7211.54,"Cash","Mobile App","November",2,3,6
+"CUST393",53,"Male","Home Appliances",13424.04,"GCash","Mobile App","March",9,2,1
+"CUST394",59,"Female","Home Appliances",2619.13,"Credit Card","Website","April",10,1,7
+"CUST395",47,"Female","Home Appliances",9353.95,"Credit Card","Mobile App","April",9,3,3
+"CUST396",27,"Female","Beauty",10869.13,"GCash","Mobile App","November",9,3,1
+"CUST397",42,"Female","Food",2934.22,"Cash","Mobile App","January",8,2,2
+"CUST398",55,"Female","Sports",8573.86,"Credit Card","Mobile App","April",4,1,1
+"CUST399",53,"Female","Sports",10105.82,"Credit Card","Mobile App","July",10,1,4
+"CUST400",58,"Female","Electronics",13796.24,"GCash","Mobile App","September",3,4,10
+"CUST401",42,"Male","Home Appliances",4950.84,"GCash","Mobile App","November",4,2,2
+"CUST402",21,"Female","Clothing",8246.61,"Credit Card","Mobile App","June",7,2,8
+"CUST403",32,"Male","Electronics",174.37,"GCash","Mobile App","May",10,4,4
+"CUST404",39,"Male","Home Appliances",5614.73,"Cash","Mobile App","November",4,2,5
+"CUST405",41,"Female","Beauty",9600.56,"Maya","Mobile App","December",1,3,6
+"CUST406",56,"Female","Sports",9183.14,"GCash","Website","June",5,2,5
+"CUST407",54,"Male","Electronics",12292.55,"GCash","Website","March",3,4,4
+"CUST408",32,"Female","Clothing",1856.59,"Cash","Website","January",4,3,5
+"CUST409",33,"Male","Clothing",9984.03,"GCash","Mobile App","December",1,4,7
+"CUST410",36,"Male","Clothing",3103.95,"GCash","Website","July",5,1,7
+"CUST411",25,"Female","Home Appliances",8844.21,"Credit Card","Website","January",3,5,10
+"CUST412",48,"Female","Sports",10456.54,"GCash","Website","October",1,4,10
+"CUST413",54,"Male","Home Appliances",7971.49,"Credit Card","Website","February",1,3,10
+"CUST414",56,"Female","Food",5605.87,"Credit Card","Website","March",9,2,2
+"CUST415",33,"Male","Beauty",10507.24,"Credit Card","Website","September",3,5,2
+"CUST416",26,"Female","Beauty",7158.2,"GCash","Website","November",4,1,10
+"CUST417",28,"Male","Electronics",3539.04,"Credit Card","Website","April",6,1,2
+"CUST418",60,"Male","Sports",6866.61,"GCash","Website","January",9,4,5
+"CUST419",47,"Female","Beauty",1279.96,"Maya","Mobile App","July",9,4,1
+"CUST420",27,"Female","Sports",3939.44,"Credit Card","Mobile App","November",3,5,6
+"CUST421",51,"Female","Beauty",8355.8,"Cash","Mobile App","April",8,2,6
+"CUST422",55,"Female","Electronics",424.22,"Cash","Mobile App","February",1,2,10
+"CUST423",37,"Female","Food",3245.42,"GCash","Mobile App","October",10,5,8
+"CUST424",31,"Female","Food",9582.26,"Credit Card","Mobile App","March",1,5,7
+"CUST425",23,"Female","Sports",10782.91,"Credit Card","Website","April",7,5,2
+"CUST426",35,"Female","Beauty",11675.25,"GCash","Website","April",6,1,5
+"CUST427",19,"Female","Beauty",1190.81,"Cash","Website","November",7,5,1
+"CUST428",25,"Female","Beauty",1571.35,"Maya","Website","September",5,2,1
+"CUST429",28,"Male","Electronics",14201.29,"Credit Card","Mobile App","December",8,4,2
+"CUST430",38,"Male","Home Appliances",13970.16,"GCash","Mobile App","February",10,4,3
+"CUST431",24,"Male","Sports",13829.63,"Cash","Mobile App","November",1,3,6
+"CUST432",40,"Male","Food",9784.09,"Credit Card","Website","August",1,2,2
+"CUST433",25,"Male","Beauty",2429.62,"Maya","Mobile App","March",10,1,10
+"CUST434",27,"Male","Home Appliances",13661.14,"Maya","Mobile App","October",8,2,10
+"CUST435",54,"Male","Electronics",13838.72,"Cash","Website","May",3,2,9
+"CUST436",34,"Female","Sports",2621.69,"Maya","Website","February",4,1,1
+"CUST437",23,"Female","Home Appliances",1193.17,"Credit Card","Mobile App","April",8,2,7
+"CUST438",57,"Female","Electronics",8536.81,"GCash","Mobile App","October",5,2,1
+"CUST439",23,"Male","Sports",5544.54,"GCash","Mobile App","May",3,1,1
+"CUST440",45,"Male","Electronics",6956.48,"GCash","Website","July",10,5,8
+"CUST441",49,"Female","Beauty",7024.58,"GCash","Website","February",1,1,7
+"CUST442",52,"Female","Home Appliances",11705.72,"GCash","Mobile App","February",1,1,8
+"CUST443",45,"Male","Sports",12372.63,"Maya","Website","October",4,5,4
+"CUST444",37,"Female","Sports",4307.09,"Credit Card","Website","May",2,3,3
+"CUST445",18,"Male","Home Appliances",10976.68,"GCash","Website","November",5,4,3
+"CUST446",22,"Male","Beauty",7489.98,"Cash","Mobile App","September",9,4,7
+"CUST447",28,"Male","Sports",1087.4,"GCash","Website","September",8,4,8
+"CUST448",37,"Female","Sports",660.95,"Cash","Website","January",5,5,10
+"CUST449",19,"Male","Home Appliances",3640.02,"Credit Card","Mobile App","September",2,1,7
+"CUST450",27,"Male","Sports",3354.1,"Credit Card","Mobile App","February",10,2,7
+"CUST451",24,"Male","Food",6393.56,"Maya","Mobile App","November",4,3,9
+"CUST452",55,"Female","Food",8291.3,"Cash","Website","December",2,5,8
+"CUST453",53,"Female","Food",10734.69,"Credit Card","Mobile App","June",2,1,2
+"CUST454",40,"Male","Beauty",3675.91,"GCash","Website","February",4,3,5
+"CUST455",51,"Male","Food",13445.66,"Cash","Website","December",9,1,6
+"CUST456",41,"Male","Home Appliances",7291.09,"Maya","Mobile App","September",2,5,10
+"CUST457",21,"Female","Food",4016.42,"GCash","Mobile App","November",4,3,1
+"CUST458",46,"Male","Sports",4866.79,"Cash","Mobile App","May",2,5,6
+"CUST459",40,"Male","Clothing",9998.1,"Maya","Mobile App","September",10,2,10
+"CUST460",28,"Male","Food",10947.97,"Cash","Website","August",7,5,4
+"CUST461",50,"Male","Beauty",8614.4,"Cash","Mobile App","April",4,2,5
+"CUST462",20,"Male","Electronics",13192.56,"Maya","Mobile App","March",10,1,4
+"CUST463",50,"Female","Beauty",6197.13,"GCash","Website","May",7,5,4
+"CUST464",47,"Male","Home Appliances",3160.4,"Credit Card","Website","August",2,5,8
+"CUST465",51,"Female","Home Appliances",7115.22,"GCash","Mobile App","March",2,1,10
+"CUST466",19,"Male","Clothing",5753.18,"GCash","Website","January",6,4,1
+"CUST467",57,"Male","Beauty",3788.72,"Maya","Website","March",10,1,5
+"CUST468",37,"Female","Beauty",13882.98,"Credit Card","Website","February",1,2,1
+"CUST469",31,"Female","Electronics",7046,"GCash","Mobile App","November",8,5,9
+"CUST470",42,"Female","Clothing",307.73,"Maya","Website","May",8,5,2
+"CUST471",24,"Female","Food",14154.05,"GCash","Mobile App","February",7,3,6
+"CUST472",57,"Female","Sports",5680.73,"Maya","Mobile App","February",10,3,4
+"CUST473",52,"Female","Beauty",219.82,"Credit Card","Website","October",8,5,5
+"CUST474",48,"Female","Food",14709.82,"Cash","Mobile App","June",10,1,1
+"CUST475",39,"Male","Clothing",5725.35,"Cash","Website","June",3,3,2
+"CUST476",33,"Male","Food",14789.43,"Cash","Website","January",10,1,8
+"CUST477",39,"Female","Food",2180.28,"Credit Card","Mobile App","March",2,4,3
+"CUST478",46,"Female","Clothing",8477.05,"GCash","Mobile App","July",1,4,9
+"CUST479",50,"Male","Electronics",11935.97,"GCash","Mobile App","July",7,3,4
+"CUST480",48,"Female","Electronics",2989.13,"Maya","Mobile App","March",6,3,7
+"CUST481",25,"Female","Home Appliances",10689.41,"GCash","Website","October",4,4,2
+"CUST482",41,"Male","Electronics",8529.05,"Maya","Mobile App","December",7,4,10
+"CUST483",47,"Male","Home Appliances",250.72,"GCash","Website","February",1,5,6
+"CUST484",40,"Female","Food",3928.57,"GCash","Mobile App","April",9,2,1
+"CUST485",54,"Female","Electronics",7117.62,"GCash","Mobile App","May",9,2,5
+"CUST486",49,"Female","Electronics",13910.25,"Maya","Mobile App","January",7,4,8
+"CUST487",34,"Female","Beauty",14929.85,"Maya","Mobile App","November",4,5,6
+"CUST488",43,"Female","Home Appliances",3228.74,"Credit Card","Website","August",7,4,1
+"CUST489",60,"Female","Home Appliances",8223.28,"Credit Card","Mobile App","October",2,1,1
+"CUST490",40,"Male","Electronics",9716.35,"Credit Card","Website","September",10,3,5
+"CUST491",43,"Male","Sports",13526.51,"Cash","Mobile App","March",4,2,4
+"CUST492",53,"Female","Electronics",11011.59,"Credit Card","Website","May",4,1,8
+"CUST493",25,"Female","Beauty",9184.69,"Cash","Website","August",1,3,5
+"CUST494",32,"Female","Electronics",3443.14,"Credit Card","Website","October",7,4,4
+"CUST495",53,"Male","Electronics",13750.95,"Cash","Website","March",2,5,3
+"CUST496",20,"Female","Beauty",12061.14,"GCash","Mobile App","January",6,1,1
+"CUST497",56,"Male","Beauty",4754.89,"GCash","Website","January",7,2,3
+"CUST498",50,"Male","Sports",3486.04,"Maya","Mobile App","February",8,5,9
+"CUST499",55,"Male","Clothing",9898.17,"GCash","Mobile App","October",4,4,7
+"CUST500",43,"Male","Electronics",11062.39,"Credit Card","Mobile App","August",3,5,2
